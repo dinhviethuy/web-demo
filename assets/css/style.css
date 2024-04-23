@@ -807,6 +807,7 @@ input::placeholder {
 
 .footer .footer-top ul {
 	width: 20%;
+	padding-left: 0;
 }
 .footer .footer-top ul li {
 	list-style: none;
